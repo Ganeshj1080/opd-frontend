@@ -82,3 +82,15 @@
   border-left: 3px solid #ff8400;
   padding-left: 10px;
 }
+
+.custom-navbar{
+  .navbar-nav{ 
+      .nav-item {
+         .nav-link {
+             i{
+                 display: none;
+             }
+         }
+     }
+ }
+}
